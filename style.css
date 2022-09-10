@@ -495,7 +495,7 @@ footer .social-links {
 
 
   /* RESET */
-  nav#navigation .wrapper * {
+  /*nav#navigation .wrapper * {
     margin: 0;
     padding: 0;
     visibility: initial;
@@ -509,7 +509,7 @@ footer .social-links {
     color: initial;
     background-color: initial;
     filter: initial;
-  }
+  }*/
 
   nav#navigation .close-menu,
   nav#navigation .open-menu,
